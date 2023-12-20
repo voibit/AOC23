@@ -29,8 +29,17 @@ name = "day9"
 path = "src/day9.rs"
 
 [[bin]]
+name = "day15"
+path = "src/day15.rs"
+
+[[bin]]
 name = "day16"
 path = "src/day16.rs"
+
+[[bin]]
+name = "day19"
+path = "src/day19.rs"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -38,3 +47,4 @@ path = "src/day16.rs"
 
 #"rayon" = "1.8"
 "regex" = "1.10"
+"lazy_static" ="1.4"
